@@ -3,7 +3,7 @@
 ------------------------------------------
 
 Python est un langage assez petit et rapide à aborder, via par exemple
-:py:ref:`tutorial-index`. Cependant le nombre de modules pouvant être utilisés
+:ref:`tutorial-index`. Cependant le nombre de modules pouvant être utilisés
 est gigantesque, plus de 95'000 sur `PyPI <https://pypi.python.org/pypi>`_ fin
 2016.
 
@@ -17,23 +17,26 @@ Bases
 -----
 
 * :ref:`builtins-tutorial`
+* :ref:`dunder-tutorial`
 * :ref:`collections-tutorial`
 * :ref:`hashlib-tutorial`
 * :ref:`fstrings-tutorial`
 * :ref:`io-tutorial`
-* :ref:`itertools-tutorial`
-* :ref:`random-tutorial`
+* :ref:`itertools-tutorial` ★
+* :ref:`random-tutorial` ★
 * :ref:`math-tutorial`
-* :ref:`secrets-tutorial`
+* :ref:`secrets-tutorial` ★
 * :ref:`statistics-tutorial`
 * :ref:`super-tutorial`
+* :ref:`time-tutorial`
 
 Avancé
 ------
 
 * :ref:`abc-tutorial`
-* :ref:`re-tutorial`
+* :ref:`email-tutorial`
 * :ref:`multiprocessing-tutorial`
+* :ref:`re-tutorial`
 
 Ligne de commande
 -----------------
@@ -50,11 +53,16 @@ Traitement des données
 ----------------------
 
 * :ref:`csv-tutorial`
-* :ref:`json-tutorial`
-* :ref:`pillow-tutorial`
+* :ref:`json-tutorial` ★
+* :ref:`pillow-tutorial` ★
 
 Autres
 ------
 
+* :ref:`hug-tutorial`
+* :ref:`invoke-tutorial`
+* :ref:`matplotlib-tutorial`
+* :ref:`pycrypto-tutorial`
 * :ref:`pygame-tutorial`
 * :ref:`sphinx-tutorial`
+* :ref:`watchdog-tutorial`
